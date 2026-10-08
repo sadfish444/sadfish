@@ -1,2 +1,2 @@
-# sadfish
+# Sadfish Ultimate Shadowrocket (SUSR)
 one
